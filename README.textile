@@ -1,6 +1,14 @@
-h2. License 
+h2. Sample Commands
 
-Original version - https://github.com/duiker101/Hacker-Typer
+- Press key 27 (aka esc) to clear the popups below
+- Press key 18 (aka alt) to get an "Acess Granted" popup
+- Press key 20 (aka caps lock) to get an "Access Denied" popup
+
+h2. Original Version
+
+https://github.com/duiker101/Hacker-Typer
+
+h2. License 
 
 (c) Copyright 2011 Simone Masiero. Some Rights Reserved. 
 
