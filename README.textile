@@ -1,5 +1,7 @@
 h2. License 
 
+Original version - https://github.com/duiker101/Hacker-Typer
+
 (c) Copyright 2011 Simone Masiero. Some Rights Reserved. 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">
